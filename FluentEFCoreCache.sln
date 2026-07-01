@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentEFCoreCache", "FluentEFCoreCache\FluentEFCoreCache.csproj", "{9357D4A9-DAAB-41C6-9DCC-116DD6C5A9C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentEFCoreCache.Tests", "FluentEFCoreCache.Tests\FluentEFCoreCache.Tests.csproj", "{5ECDD9B5-13E4-4FB6-B1CD-C9967334069E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solutions Items", "Solutions Items", "{45EB5FE1-6056-4495-B439-E7EE2490A39E}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+		LICENSE = LICENSE
+		nuget_icon_light.ico = nuget_icon_light.ico
+		nuget_icon_light.png = nuget_icon_light.png
+		nuget_icon.png = nuget_icon.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9357D4A9-DAAB-41C6-9DCC-116DD6C5A9C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9357D4A9-DAAB-41C6-9DCC-116DD6C5A9C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9357D4A9-DAAB-41C6-9DCC-116DD6C5A9C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9357D4A9-DAAB-41C6-9DCC-116DD6C5A9C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ECDD9B5-13E4-4FB6-B1CD-C9967334069E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ECDD9B5-13E4-4FB6-B1CD-C9967334069E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ECDD9B5-13E4-4FB6-B1CD-C9967334069E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ECDD9B5-13E4-4FB6-B1CD-C9967334069E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
